@@ -6,6 +6,8 @@ mastery of a mathematical discipline to unlock the epic gear and the zones beyon
 
 > *Where calculus is the blade, and your mind is the weapon.*
 
+Auteur : **Kevin Marville** (Kvnbbg) — Tech & Stream
+
 ## Documents
 
 | Document | Version | Covers |

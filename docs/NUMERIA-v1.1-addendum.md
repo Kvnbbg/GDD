@@ -1,5 +1,6 @@
 # NUMERIA ONLINE — GDD Addendum v1.1
 
+**Author:** Kevin Marville (Kvnbbg) — Tech & Stream
 **Extends:** `NUMERIA Online — Game Design Document.pdf` (v1.0, September 2026)
 **Status:** Pre-production / Concept
 **Scope:** Two chapters absent from v1.0 — the terminal tier, and the commercial model.
@@ -395,6 +396,12 @@ pricing — and a published charter so the veto is auditable rather than persona
 
 Named so that the veto in §15.8 has someone to belong to. Roles, not individuals — v1.0
 credits "Game Design Team" and no other function, which is itself the blind spot in miniature.
+
+The document's own authorship is the first case of it. NUMERIA is **Kevin Marville**'s
+(Kvnbbg, Tech & Stream) design; "Game Design Team" on the v1.0 cover names nobody, and a
+design nobody is named for is a design nobody can be asked about. The table below assigns
+functions, not headcount — one person may hold several of these roles today, and saying so
+is more useful than implying a department that does not exist.
 
 | Stakeholder | Owns | Decides | Consulted on | Must not decide |
 | --- | --- | --- | --- | --- |
